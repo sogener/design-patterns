@@ -1,0 +1,17 @@
+{
+    "name": "sogener/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gleb Kalinin",
+            "email": "sogener@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
