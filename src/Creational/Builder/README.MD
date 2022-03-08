@@ -12,7 +12,7 @@
 
 ---
 ### UML Diagram
-![builder](https://user-images.githubusercontent.com/50992188/157176022-a4e4f217-152b-46d4-a363-9a91f19c9a3e.png)
+![Screenshot from 2022-03-08 12-35-21](https://user-images.githubusercontent.com/50992188/157188879-d82acdda-e247-4a27-92e0-59c7f4723ec6.png)
 
 ---
 ### Например:
