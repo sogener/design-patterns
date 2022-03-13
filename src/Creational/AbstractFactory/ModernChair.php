@@ -1,14 +1,23 @@
 <?php
 
+namespace App\Creational\AbstractFactory;
+
 class ModernChair implements Chair
 {
-    public function sitOn()
+    private bool $canSit;
+    private int $legsAmount;
+
+    public function sitOn(bool $can): self
     {
-        // TODO: Implement sitOn() method.
+        $this->canSit = $can;
+
+        return $this;
     }
 
-    public function hasLegs()
+    public function hasLegs(int $amount): self
     {
-        // TODO: Implement hasLegs() method.
+        $this->legsAmount = $amount;
+
+        return $this;
     }
 }

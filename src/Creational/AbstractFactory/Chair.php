@@ -1,8 +1,10 @@
 <?php
 
+namespace App\Creational\AbstractFactory;
+
 interface Chair
 {
-    public function sitOn();
+    public function sitOn(bool $can);
 
-    public function hasLegs();
+    public function hasLegs(int $amount);
 }

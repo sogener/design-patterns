@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Creational\AbstractFactory;
+
 class ModernWindow implements Window
 {
 
