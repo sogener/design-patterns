@@ -9,5 +9,7 @@
 ---
 
 ### UML Diagram
+![Registry](https://user-images.githubusercontent.com/50992188/158058413-030375fa-6b4a-4bf6-a94a-ba36004cdf63.png)
+
 
 ---
