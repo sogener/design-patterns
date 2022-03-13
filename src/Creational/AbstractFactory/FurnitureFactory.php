@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Creational\AbstractFactory;
+
 interface FurnitureFactory
 {
     public function createWindow(): Window;
