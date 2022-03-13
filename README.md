@@ -6,4 +6,4 @@
 
 ### [Structural](Structural)
 
-* [Structural](src/Structural/Registry) [:notebook:](https://designpatternsphp.readthedocs.io/ru/latest/Structural/Registry/README.html)
+* [Registry](src/Structural/Registry) [:notebook:](https://designpatternsphp.readthedocs.io/ru/latest/Structural/Registry/README.html)
