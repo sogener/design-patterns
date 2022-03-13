@@ -11,3 +11,6 @@
 ### UML Diagram
 
 ---
+
+### How to run tests?
+`./vendor/bin/phpunit src/Structural/Registry/Tests/`
