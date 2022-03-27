@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Creational\AbstractFactory;
+namespace App\Creational\FactoryMethod;
 
 interface Transport
 {
-    public function setDeliverPrice($price);
+    public function setDeliverPrice(int $price): void;
 
-    public function getDeliverPrice();
+    public function getDeliverPrice(): int;
 
     public function deliver();
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Creational\AbstractFactory;
+namespace App\Creational\FactoryMethod;
 
 /*
  * Создатель
