@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Creational\AbstractFactory;
+namespace App\Creational\FactoryMethod;
 
 class Car implements Transport
 {
@@ -11,7 +11,7 @@ class Car implements Transport
         return 'start deliver';
     }
 
-    public function setDeliverPrice($price): void
+    public function setDeliverPrice(int $price): void
     {
         $this->price = $price;
     }
