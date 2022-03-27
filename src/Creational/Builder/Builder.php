@@ -12,7 +12,7 @@ interface Builder
 
     public function addWindows();
 
-    public function getHouse(): House;
+    public function build(): House;
 
     public function createHouse();
 }
