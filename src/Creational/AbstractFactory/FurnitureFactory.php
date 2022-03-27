@@ -8,5 +8,5 @@ interface FurnitureFactory
 
     public function createChair(): Chair;
 
-    public function createSofa();
+    public function createSofa(): Sofa;
 }
