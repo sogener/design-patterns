@@ -16,6 +16,11 @@
 
 ---
 
+# How to run tests?
+./vendor/bin/phpunit src/Creational/FactoryMethod/Tests
+
+---
+
 ### Применимость
 
 1. Когда заранее неизвестны типы и зависимости обьектов, с которыми должен работать ваш код.
