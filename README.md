@@ -9,6 +9,7 @@
 
 * [Registry](src/Structural/Registry) [:notebook:](https://designpatternsphp.readthedocs.io/ru/latest/Structural/Registry/README.html)
 * [Adapter](src/Structural/Adapter) :notebook:
+* [Decorator](src/Structural/Decorator) :notebook:
 
 ### [Behavioral](Behavioral)
 * [Command](src/Behavioral/Command) :notebook:
