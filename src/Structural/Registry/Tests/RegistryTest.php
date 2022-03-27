@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Structural\Registry\tests;
+namespace App\Structural\Registry\Tests;
 
 use App\Structural\Registry\Registry;
 use App\Structural\Registry\Service;
