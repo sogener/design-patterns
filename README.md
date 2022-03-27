@@ -8,3 +8,6 @@
 ### [Structural](Structural)
 
 * [Registry](src/Structural/Registry) [:notebook:](https://designpatternsphp.readthedocs.io/ru/latest/Structural/Registry/README.html)
+
+### [Behavioral](Behavioral)
+* [Command](src/Behavioral/Command) :notebook:
