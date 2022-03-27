@@ -15,6 +15,12 @@
 ![Screenshot from 2022-03-08 12-35-21](https://user-images.githubusercontent.com/50992188/157188879-d82acdda-e247-4a27-92e0-59c7f4723ec6.png)
 
 ---
+
+# How to run tests?
+./vendor/bin/phpunit src/Creational/Builder/Tests
+
+---
+
 ### Например:
 1. Построить стены
 2. Вставить двери
