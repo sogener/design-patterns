@@ -15,3 +15,4 @@
 ### [Behavioral](Behavioral)
 * [Command](src/Behavioral/Command) :notebook:
 * [Iterator](src/Behavioral/Iterator) :notebook:
+* [Observer](src/Behavioral/Observer) :notebook:
