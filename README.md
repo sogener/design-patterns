@@ -16,3 +16,4 @@
 * [Command](src/Behavioral/Command) :notebook:
 * [Iterator](src/Behavioral/Iterator) :notebook:
 * [Observer](src/Behavioral/Observer) :notebook:
+* [Strategy](src/Behavioral/Strategy) :notebook:
