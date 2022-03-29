@@ -7,7 +7,7 @@
 
 ### UML Diagram
 
-![](uml/iterator.png)
+![](uml/observer.png)
 ---
 
 # Когда использовать?
