@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Behavioral\Command\Tests;
+namespace App\Behavioral\Strategy\Tests;
 
 use App\Behavioral\Observer\User;
 use App\Behavioral\Observer\UserObserver;
