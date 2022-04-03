@@ -17,3 +17,6 @@
 * [Iterator](src/Behavioral/Iterator) :notebook:
 * [Observer](src/Behavioral/Observer) :notebook:
 * [Strategy](src/Behavioral/Strategy) :notebook:
+
+### [More](More)
+* [ServiceLocator](src/More/ServiceLocator) :notebook:
