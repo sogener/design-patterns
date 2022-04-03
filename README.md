@@ -11,6 +11,7 @@
 * [Adapter](src/Structural/Adapter) :notebook:
 * [Decorator](src/Structural/Decorator) :notebook:
 * [Facade](src/Structural/Facade) :notebook:
+* [Dependency Injection](src/Structural/DependencyInjection) :notebook:
 
 ### [Behavioral](Behavioral)
 * [Command](src/Behavioral/Command) :notebook:
